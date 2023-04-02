@@ -1,0 +1,11 @@
+The topics that I learned on this day:
+
+when you are at a higher level in industry and responsible for managing a datascience product then you have to think each step of datascience lifecycle.
+
+1. Understanding business problem
+2. Type of problem
+3. Current Solution
+4. Getting Data
+5. Metrics to measure
+6. Online vs. Batch learning
+7. Check assumption
